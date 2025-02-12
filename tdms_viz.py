@@ -1,10 +1,22 @@
+# TDMS Signal Visualizer
+# Copyright (c) 2025 Ali Zareh.
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the MIT License as published by the Free Software
+# Foundation.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MIT License for more details.
+
 import numpy as np
 import pygame
 from scipy.ndimage import gaussian_filter1d
 from nptdms import TdmsFile
 
 # Configuration
-DATA_PATH = r'C:\Users\Ali\Desktop\Odor Project\Data\Simul\tdms\neural_data.tdms'
+DATA_PATH = r'PATH TO YOUR FILE'
 WIN_WIDTH, WIN_HEIGHT = 1500, 800
 COLORS = [
     (0, 119, 190), (213, 94, 0), (0, 158, 115),
