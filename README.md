@@ -52,10 +52,4 @@ This Python application provides a user-friendly interface for visualizing data 
 *   **Increase Vertical Scale:** `W` Key
 *   **Decrease Vertical Scale:** `S` Key
 
-## Future Enhancements:
 
-*   Implement more sophisticated signal processing techniques.
-*   Add options for customizing the plot appearance (colors, line styles, etc.).
-*   Implement data export functionalities.
-*   Add tooltips and documentation within the UI.
-*   Add support for different file formats.
