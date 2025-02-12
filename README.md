@@ -13,6 +13,7 @@ This Python application provides a user-friendly interface for visualizing data 
 *   **Dynamic Layout:** Adapts to different window sizes, ensuring a consistent and usable experience.
 *   **Customizable UI:** Includes a sidebar with interactive buttons and informative tooltips.
 *   **Vertical Scaling:** Dynamically adjust the vertical scale of the data for optimal visualization.
+![image](https://github.com/user-attachments/assets/a7f251cc-a3cc-41f2-81e0-c561d6aceca0)
 
 ## Libraries Used:
 
